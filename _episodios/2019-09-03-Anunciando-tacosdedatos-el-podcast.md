@@ -3,7 +3,6 @@ title: "Anunciando: tacos de datos, el podcast"
 categories:
   - episodios
 tags:
-  - primera temporada
   - anuncio
 last_modified_at: 2019-09-03T15:00:00-09:00
 actions:

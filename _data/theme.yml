@@ -18,7 +18,7 @@ t:
   email: "Email"
   subscribe: "Subscríbase"
   read_more: "Leer más"
-  posts: "Posts"
+  posts: "Episodios"
   page: "Página"
   of: "de"
   min_read: "min de lectura"
@@ -35,4 +35,4 @@ google_fonts:
 
 navigation_pages:
   - acercade.md
-  - cv.md
+  - episodios.md
