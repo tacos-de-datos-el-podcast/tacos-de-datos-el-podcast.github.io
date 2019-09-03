@@ -79,7 +79,7 @@ defaults:
   # _posts
   - scope:
       path: "_episodios"
-      type: posts
+      type: episodios
     values:
       layout: post
       read_time: true
