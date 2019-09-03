@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: es-MX
-title: tacosdedatos, el podcast
+title: tacos de datos, el podcast
 email: info@tacosdedatos.com
 description: Pláticas, noticias, entrevistas y demás sobre el análisis y la visualización de datos en tu idioma. 
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -78,8 +78,17 @@ exclude:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: "_episodios"
       type: posts
     values:
       layout: post
       read_time: true
+
+
+# Mas configuraciones
+disqus:
+  shortname: tacosdedatos
+
+google_analytics: UA-133541532-2
+
+copyright: "© 2019 tacos de datos"

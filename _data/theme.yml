@@ -3,26 +3,26 @@ skin: night # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
-  skip_links: "Skip links"
-  skip_primary_nav: "Skip to primary navigation"
-  skip_content: "Skip to content"
-  skip_footer: "Skip to footer"
-  menu: "Menu"
-  search: "Search"
-  site_search: "Site Search"
-  results_found: "Result(s) found"
-  search_placeholder_text: "Enter your search term..."
-  home: "Home"
-  newer: "Newer"
-  older: "Older"
+  skip_links: "Saltar enlaces"
+  skip_primary_nav: "Saltar a navegación principal"
+  skip_content: "Saltar al contenido"
+  skip_footer: "Saltar al pie de la página"
+  menu: "Menú"
+  search: "Búsqueda"
+  site_search: "Búsqueda de sitio"
+  results_found: "Resultados"
+  search_placeholder_text: "Ingrese su término de búsqueda..."
+  home: "Inicio"
+  newer: "+ nuevos"
+  older: "+ viejos"
   email: "Email"
-  subscribe: "Subscribe"
-  read_more: "Read More"
+  subscribe: "Subscríbase"
+  read_more: "Leer más"
   posts: "Posts"
-  page: "Page"
-  of: "of"
-  min_read: "min read"
-  present: "Present"
+  page: "Página"
+  of: "de"
+  min_read: "min de lectura"
+  present: "Presente"
 
 # Google Fonts
 google_fonts:
@@ -34,5 +34,5 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
-  - about.md
-  - cv.md
+  - acercade.md
+#  - cv.md
