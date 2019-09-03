@@ -103,7 +103,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "_episodios"
+      path: "_posts"
       type: posts
     values:
       layout: post
