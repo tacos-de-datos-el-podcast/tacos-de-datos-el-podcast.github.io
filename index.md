@@ -7,6 +7,6 @@ introduction: |
   Pláticas, noticias, entrevistas y demás sobre el análisis y la visualización de datos en tu idioma.:
 actions:
   - label: "Escúchalo"
-    icon: icon-download
+    icon: download
     url: "https://anchor.fm/tacosdedatos"
 ---
