@@ -104,7 +104,7 @@ defaults:
   # _posts
   - scope:
       path: "_episodios"
-      type: episodios
+      type: posts
     values:
       layout: post
       read_time: true
