@@ -103,8 +103,8 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
-      type: posts
+      path: "_episodios"
+      type: episodios
     values:
       layout: post
       read_time: true
