@@ -1,6 +1,6 @@
 ---
 title: Post Archive
 layout: posts
-permalink: /posts/
+permalink: /episodios/
 entries_layout: list
 ---
