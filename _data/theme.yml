@@ -11,7 +11,7 @@ t:
   search: "Búsqueda"
   site_search: "Búsqueda de sitio"
   results_found: "Resultados"
-  search_placeholder_text: "Ingrese su término de búsqueda..."
+  search_placeholder_text: "¿Qué buscas?"
   home: "Inicio"
   newer: "+ nuevos"
   older: "+ viejos"
