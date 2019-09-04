@@ -1,6 +1,6 @@
 ---
 title: "#000 Anunciando: tacos de datos, el podcast"
-excerpt: "Episodio #000 --- Anunciando: tacos de datos, el podcast"
+excerpt: "Anunciando... el nuevo podcast, el mejor podcast, el mas popular, el mas bonito. El que junta los tacos y los datos *sonido chido*: tacos de datos, el podcast."
 categories:
   - episodios
 tags:
@@ -19,7 +19,7 @@ actions:
 
 Anunciando... el nuevo podcast, el mejor podcast, el mas popular, el mas bonito. El que junta los tacos y los datos \*sonido chido\*: **tacos de datos, el podcast**.
 
-_¡¿Y de qué vamos a hablar?!
+_¡¿Y de qué vamos a hablar?!_
 
 Pues vamos a hablar de datos, de distribuir datos, de-de recolectar datos, de analizar datos, de visualizar datos. De personas que trabajan con datos y son famosas en tuiter y escriben libros.
 
