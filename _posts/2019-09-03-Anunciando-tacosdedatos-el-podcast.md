@@ -1,5 +1,6 @@
 ---
 title: "&nbsp;#&nbsp;000 Anunciando: tacos de datos, el podcast"
+excerpt: "Episodio #000 --- Anunciando: tacos de datos, el podcast"
 categories:
   - episodios
 tags:
