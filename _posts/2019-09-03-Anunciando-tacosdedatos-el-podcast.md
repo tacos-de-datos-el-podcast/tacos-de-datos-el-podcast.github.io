@@ -12,7 +12,7 @@ actions:
     url: "https://anchor.fm/tacosdedatos/episodes/Anunciando-Tacos-de-Datos--el-podcast-e53gep/a-alpc7n"
   - label: "¡Envía un mensaje de voz!"
     icon: microfono
-    url: "https://anchor.fm/tacosdedatos/message/
+    url: "https://anchor.fm/tacosdedatos/message/"
 ---
 
 # Episodio #000 --- Anunciando: tacos de datos, el podcast
