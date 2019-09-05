@@ -1,6 +1,5 @@
 ---
 title: "#000 Anunciando: tacos de datos, el podcast"
-excerpt: "Anunciando... el nuevo podcast, el mejor podcast, el mas popular, el mas bonito. El que junta los tacos y los datos *sonido chido*: tacos de datos, el podcast."
 categories:
   - episodios
 tags:
