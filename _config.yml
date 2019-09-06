@@ -29,7 +29,7 @@ author:
   picture:
 twitter_username: tacosdedatos
 github_username: tacos-de-datos
-logo: "/assets/images/33C4DFB8-3452-47EA-A279-739A95AFBF91.png" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/assets/images/B1C05E44-C28F-4A63-AD83-0D3443E048E3.png" # path of site logo, e.g. "/assets/images/logo.png"
 search: true # true, false (default)
 search_full_content: true # true, false (default)
 search_provider: lunr # lunr (default), algolia
