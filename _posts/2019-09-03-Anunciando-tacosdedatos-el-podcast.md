@@ -1,5 +1,5 @@
 ---
-title: "&nbsp;#&nbsp000 Anunciando: tacos de datos, el podcast"
+title: "#000 Anunciando: tacos de datos, el podcast"
 categories:
   - episodios
 tags:
