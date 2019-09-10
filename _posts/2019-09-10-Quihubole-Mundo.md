@@ -6,9 +6,9 @@ tags:
   - anuncio
 last_modified_at: 2019-09-10T05:00:00-05:00
 actions:
-  - label: "<i class="fas fa-headphones"></i> Escúchalo"
+  - label: "<i class='fas fa-headphones'></i> Escúchalo"
     url: "https://anchor.fm/tacosdedatos/episodes/Anunciando-Tacos-de-Datos--el-podcast-e53gep/a-alpc7n"
-  - label: "<i class="fas fa-microphone-alt"></i> ¡Envía un mensaje de voz!"
+  - label: "<i class='fas fa-microphone-alt'></i> ¡Envía un mensaje de voz!"
     url: "https://anchor.fm/tacosdedatos/message/"
 ---
 
