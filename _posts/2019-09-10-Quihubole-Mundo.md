@@ -10,6 +10,13 @@ actions:
     url: "https://anchor.fm/tacosdedatos/episodes/Anunciando-Tacos-de-Datos--el-podcast-e53gep/a-alpc7n"
   - label: "<i class='fas fa-microphone-alt'></i> ¡Envía un mensaje de voz!"
     url: "https://anchor.fm/tacosdedatos/message/"
+
+  - label: '<i class="fab fa-spotify"></i> Spotify'
+    url: "https://open.spotify.com/show/5oiSRDgi4G49LI6NRIYouk"
+  - label: '<i class="fas fa-podcast"></i> Apple Podcasts'
+    url: "https://podcasts.apple.com/us/podcast/tacos-de-datos/id1478685954"
+  - label: '<i class="fab fa-google"></i> Google Podcasts'
+    url: "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9kYjM5ZDM4L3BvZGNhc3QvcnNz"
 ---
 
 <iframe src="https://anchor.fm/tacosdedatos/embed/episodes/Quihubole-Mundo-e59bo4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
