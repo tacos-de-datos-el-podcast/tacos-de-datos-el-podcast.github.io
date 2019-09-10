@@ -16,7 +16,7 @@ actions:
 
 Colaboraciones en tacos de datos:
 * [Elecciones para Gobernado - Puebla 2019](https://tacosdedatos.com/elecciones-puebla-2019) con [@YaNiPaper](https://Twitter.com/YaNiPaper)
-* [Webscrapping y Mapas con Power I](https://tacosdedatos.com/webscrapping-y-mapas-con-powerbi) con [@Manlio_Rolon](https://Twitter.com/Manlio_Rolon)
+* [Webscrapping y Mapas con PowerBI](https://tacosdedatos.com/webscrapping-y-mapas-con-powerbi) con [@Manlio_Rolon](https://Twitter.com/Manlio_Rolon)
 * [Como create la gráfica de carrera de gráficas de barra con R](https://tacosdedatos.com/como-hacer-carrera-de-barras-en-r) con Rafa [@GonzalezGouveia](https://Twitter.com/GonzalezGouveia)
 
 <details>
