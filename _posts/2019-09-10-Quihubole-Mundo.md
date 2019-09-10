@@ -11,6 +11,7 @@ actions:
   - label: "<i class='fas fa-microphone-alt'></i> ¡Envía un mensaje de voz!"
     url: "https://anchor.fm/tacosdedatos/message/"
 title_image: /assets/images/tacosdedatos-el-podcast-logo.jpg
+image: /assets/imagen/tacosdedatos-el-podcast-logo.jpg
 ---
 
 <iframe src="https://anchor.fm/tacosdedatos/embed/episodes/Quihubole-Mundo-e59bo4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
