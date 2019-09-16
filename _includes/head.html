@@ -37,23 +37,17 @@
   
 
 <!-- Twitter cards -->
-<meta name="twitter:site"    content="@{{ site.twitter_username }}">
-<meta name="twitter:creator" content="@{{ page.author }}">
-<meta name="twitter:text:title"   content="{{ page.title }}">
-
-{% if page.summary %}
-<meta name="twitter:description" content="{{ page.summary }}">
-{% else %}
-<meta name="twitter:description" content="{{ site.description }}">
-{% endif %}
-
-{% if page.image %}
-<meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
-{% else %}
-<meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="{{ site.title_image }}">
-{% endif %}
+    <meta name="twitter:site"    content="@{{ site.twitter_username }}">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta name="twitter:description" content="{% if excerpt %}{{ excerpt }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+    <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}" />
+    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}" />
+    <meta name="twitter:label1" content="Escrito por" />
+    <meta name="twitter:data1" content="{{ site.title }}" />{% if page.tags.size > 0 %}
+    <meta name="twitter:label2" content="Bajo" />
+    <meta name="twitter:data2" content="{{ page.tags | first | capitalizeall }}" />{% endif %}
+    <meta name="twitter:creator" content="@{{ site.twitter_username }}" />{% if excerpt %}  
 <!-- end of Twitter cards -->
 
 
