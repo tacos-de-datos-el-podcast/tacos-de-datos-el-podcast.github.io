@@ -1,5 +1,5 @@
 ---
-title: "#001 ¿Quihubole Mundo?"
+title: "#002 Previo: Tacos de Grafos"
 categories:
   - episodios
 tags:
