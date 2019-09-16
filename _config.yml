@@ -21,7 +21,7 @@ lang: es-MX
 title: tacos de datos, el podcast
 email: info@tacosdedatos.com
 description: Pláticas, noticias, entrevistas y demás sobre el análisis y la visualización de datos en tu idioma. 
-baseurl: # the optional subpath of your site, e.g. "/blog"
+baseurl: / # the optional subpath of your site, e.g. "/blog"
 url: https://tacosdedatos.fm # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Sergio Sánchez Zavala
