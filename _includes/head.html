@@ -43,10 +43,6 @@
     <meta name="twitter:description" content="{% if excerpt %}{{ excerpt }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
     <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}" />
     <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" />
-    <meta name="twitter:label1" content="Escrito por" />
-    <meta name="twitter:data1" content="{{ site.title }}" />{% if page.tags.size > 0 %}
-    <meta name="twitter:label2" content="Bajo" />
-    <meta name="twitter:data2" content="{{ page.tags | first | capitalizeall }}" />{% endif %}
     <meta name="twitter:creator" content="@{{ site.twitter_username }}" />{% if excerpt %}  
 <!-- end of Twitter cards -->
 
