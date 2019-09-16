@@ -23,4 +23,4 @@ actions:
 
 Un previo del siguiente episodio de **tacos de datos, el podcast** donde entrevistamos a Dagoberto Herrera y Miriam Castillo. 
 
-¡Nos escuchamos el 24 de septiembre!
+¡Nos escuchamos en dos semanas el 24 de septiembre!
