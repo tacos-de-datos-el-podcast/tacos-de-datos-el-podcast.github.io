@@ -29,4 +29,5 @@ actions:
   <li>Tutoriales de Neo4J (<a href="https://medium.com/neo4j/graph-databases-for-journalists-5ac116fe0f54">primero</a>, <a href="https://medium.com/neo4j/part-ii-graph-databases-for-journalists-3bf2a5046975">segundo</a>)</li>
   <li><a href="https://neo4j.com/graph-algorithms-book/">Libro de algoritmos para neo4j (gratuito)</a></li>
   <li>Herramienta de Mexicanos contra la Corrupción: <a href="https://diorama.io/">diorama.io</a></li>
+  <li>SerendipiaData: <a href="https://serendipia.digital/">Sitio web</a> | <a href="https://www.youtube.com/channel/UCr43XO-mAyTi4Y5g7QAmOwQ">Youtube</a></li>
 </ul>
